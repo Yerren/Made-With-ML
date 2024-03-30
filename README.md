@@ -1,2 +1,2 @@
 # Made-With-ML
-For the MLOps course at: https://madewithml.com/#course
+For the ML(Ops) course at: https://madewithml.com/#course
